@@ -1,0 +1,12 @@
+tqdm
+numpy==1.24.4
+torch==2.1.0
+torchaudio==2.0.2
+torchinfo==1.8.0
+torchio==0.19.1
+torchvision==0.16.0
+matplotlib
+monai==1.2.0
+SimpleITK==2.2.1
+edt
+prefetch-generator==1.0.3
